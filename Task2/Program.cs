@@ -9,7 +9,7 @@
 
 Console.WriteLine("Введите число, ");
 int number = Convert.ToInt32(Console.ReadLine());
-int sum = 0; // sum = sum + num % 10 ???
+int sum = 0; 
 
 if (number / 10 > 0)
 {

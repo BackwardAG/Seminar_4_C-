@@ -5,17 +5,7 @@
 
 // 2, 4 -> 16
 
-// int Power(int numberP)
-// {
-//     int numberA = Convert.ToInt32(Console.ReadLine());
-//     int numberB = Convert.ToInt32(Console.ReadLine());
-//     while (numberA > 0 && numberB > 0)
-//     {
-//         System.Console.WriteLine(Math.Pow(numberA, numberB));
-//         break;
-//     } 
-//     return numberP;
-// }
+// 
 
 System.Console.WriteLine("Введите число, A");
 System.Console.WriteLine("Введите число, B");
@@ -29,3 +19,15 @@ while (numberA > 0 && numberB > 0)
 
 }
 
+
+// int Power(int numberP)
+// {
+//     int numberA = Convert.ToInt32(Console.ReadLine());
+//     int numberB = Convert.ToInt32(Console.ReadLine());
+//     while (numberA > 0 && numberB > 0)
+//     {
+//         System.Console.WriteLine(Math.Pow(numberA, numberB));
+//         break;
+//     } 
+//     return numberP;
+// }

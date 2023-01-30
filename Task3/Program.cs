@@ -10,7 +10,7 @@ void FillArray(int[] numbers)
     Random rnd = new Random();
     for (int i = 0; i < numbers.Length; i++)
     {
-        numbers[i] = rnd.Next();
+        numbers[i] = rnd.Next(0,9);
     }
 }
 
